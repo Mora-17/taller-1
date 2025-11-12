@@ -26,3 +26,5 @@ app.listen(port, ()=>{
     console.log('El servidor está ejecutándose correctamente, en el puerto ', port);
 });
 
+export default app;
+
